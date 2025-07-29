@@ -21,4 +21,4 @@ Los códigos que se ejecutaron para las distintas pruebas se encuentran en la ca
 ⚫  José Becerra (_IO_, _Kernel_, Testeo) 🦾 **Inquebrantable**
  
 #### y
-💀  Lautaro Molina (_Kernel_) **o7**
+💀  Lautaro Miras (_Kernel_) **o7**
