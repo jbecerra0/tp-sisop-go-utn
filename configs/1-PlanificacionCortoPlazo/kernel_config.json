@@ -1,0 +1,12 @@
+{
+  "ip_memory": "self",
+  "port_memory": 8082,
+  "port_kernel": 8081,
+  "log_level": "INFO",
+  
+  "scheduler_algorithm": "FIFO",
+  "ready_ingress_algorithm": "FIFO",
+  "alpha": 1,
+  "initial_estimate": 1000,
+  "suspension_time": 120000
+}

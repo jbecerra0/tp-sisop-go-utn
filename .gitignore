@@ -1,0 +1,10 @@
+# Log files
+*.log
+/builds
+pending.txt
+*.exe
+!build_all.exe
+*.dmp
+*.bin
+*.tmp
+*.exe
